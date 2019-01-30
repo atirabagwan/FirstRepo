@@ -1,7 +1,4 @@
-/*Done By:Bagwan Atira M
- SE(A) Roll no:04
- Date:31/08/18
- strings using stack(expression)*/
+
  #include<iostream>
  #include<string.h>
 #include "stack.h"
